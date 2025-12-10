@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contend{
+height: 100px;
+width: 100px;
+margin-top: 20px;
+border: 2px solid black;
+border-radius: 5px;
+display: inline-block;
+
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 120px;
+    padding-top: 40px;
+}
+.contener{
+        height: 600px;
+}

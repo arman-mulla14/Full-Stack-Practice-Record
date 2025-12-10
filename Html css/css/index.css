@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+
+    width: 100%;
+    height: 60px;
+    background-color: #130606;
+}
+
+.navbar ul{
+    list-style: none;
+float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+ 
+}
+
+ul , li{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    color: white;
+   padding: 4px 10px;
+  
+}
+
+
+ul li:hover{
+background-color: #b31616;
+cursor: pointer;
+border-radius: 10%;
+    
+}
+
+.hero{
+    margin-top: -100px;
+height: 700px;
+width: 100%;
+background-image: url(./images/GiyuuShinoufo1.jpg);
+background-size: cover;
+}
+
+.hero h2{
+ text-align: center;
+background: #020024;
+color: rgb(253, 251, 247);
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(242, 7, 19, 1) 49%, rgba(0, 247, 255, 0.76) 100%);
+    font-family: 'Arial', sans-serif;
+}
+
+.hashira{
+    width: 100%;
+    height: 300px;
+   
+}
+
+.hashira .rem{
+
+    width: 100%;
+    height: 80px;
+background: #7f318c;
+background: linear-gradient(90deg, rgba(127, 49, 140, 0.82) 21%, rgba(242, 7, 19, 0.59) 30%, rgba(150, 65, 115, 1) 51%, rgba(129, 117, 129, 1) 61%, rgba(31, 183, 242, 1) 84%, rgba(0, 229, 255, 1) 100%); 
+
+text-align: center;
+}
+.hashira .rem .def{
+  
+
+    text-align: center; 
+    padding-bottom: 20px;
+}
+.hashira .rem li{
+    margin-top: 20px;
+    color: white;
+
+    font-family: 'Arial', sans-serif;
+}
+.sano{
+
+    margin-bottom: 120px;
+    width: 50%;
+}
+.sano img{
+
+    margin-top: -160px;
+    margin-left: 50px;
+
+    border-radius:  5%;;
+}
+
+.dis{
+
+    width: 40%;
+    float: right;
+    margin-right: 150px;
+    margin-top: -420px;
+
+ 
+
+
+    font-family: 'Arial', sans-serif;
+}
